@@ -11,7 +11,7 @@
  */
  
 /** MySQL hostname */
-define("DB_HOST", 'localhost');
+define("DB_HOST", '137.74.180.123');
 
 /** MySQL database username */
 define("DB_USER", 'trickfor_stream');
